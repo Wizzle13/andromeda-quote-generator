@@ -1,10 +1,25 @@
 {
-    "id" : 1,
-    "season" : 1,
-    "episode" : 1,
-    "title": "Under the Night",
-    "quote" : "If the Commonwealth's High Guard had a weakness, it was this: Its officers were too competent, too caring, and too brave.",
-    "name" : "Yin Man-Wei",
-    "source" : "The Rise and Fall of the Systems Commonwealth",
-    "year": "CY 11942"
-}
+    "quotes":[
+        {
+            "id" : 1,
+            "season" : 1,
+            "episode" : 1,
+            "title": "Under the Night",
+            "quote" : "If the Commonwealth's High Guard had a weakness, it was this: Its officers were too competent, too caring, and too brave.",
+            "name" : "Yin Man-Wei",
+            "source" : "The Rise and Fall of the Systems Commonwealth",
+            "year": "CY 11942"
+        },
+
+        {
+            "id" : 2,
+            "season" : 1,
+            "episode" : 2,
+            "title": "An Affirming Flame",
+            "quote" : "Some say the Commonwealth would have fallen even without Nietzschean treachery.  They underestimate both the Commonwealth and the Nietzscheans in a single breath.",
+            "name" : "Yin Man-Wei",
+            "source" : "The Rise and Fall of the Systems Commonwealth",
+            "year": "CY 11942"
+        }
+    ]
+}    

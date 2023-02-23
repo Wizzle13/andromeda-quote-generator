@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    background-color: black ;
+}
+header h1 {
+    text-align: center;
+    color: white;
+}
+
+button {
+   align-self:center;
+}
+.quote {
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
