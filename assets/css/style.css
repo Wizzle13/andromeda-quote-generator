@@ -10,7 +10,7 @@ header h1 {
 button {
    align-self:center;
 }
-.quote {
+#quote {
     text-align: center;
     font-size: 32px;
     font-family: 'Courier New', Courier, monospace;
