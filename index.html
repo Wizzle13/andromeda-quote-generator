@@ -4,6 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--milligram stylesheet link-->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css">
+    
     <link rel="stylesheet" href="./assets/css/style.css" />
     <title>Andromeda Intro Quote Generator</title>
 </head>
@@ -13,20 +18,25 @@
         <h1>Andromeda Intro Quote Generator</h1>
     </header>
     <main>
-        <div id="quote">
-            Quote
-            <br>
-            name
-            <br>
-            Source
-            <br>
-            Year
+        <div class="intro">
+            <p>
+                This page will display a random quote from the intro of the tv show <a href="https://www.imdb.com/title/tt0213327/?ref_=nv_sr_srsg_1">Andromeda</a> staring <a href="https://www.imdb.com/name/nm0001757/?ref_=tt_cl_t_1">Kevin Sorbo</a>.
+            </p>
+        </div>
+        <div id="quote" class="modal-quote">
+            
         </div>
         <button id="genButton">Generate Quote</button>
     </main>
     <footer>
 
     </footer>
+<!-- JQuery script -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-ui-touch-punch@0.2.3/jquery.ui.touch-punch.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.15.0/umd/popper.min.js"></script>
+
     <script src="./assets/js/script.js"></script>
 </body>
 </html>
