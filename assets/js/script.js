@@ -25,6 +25,8 @@ var genQuote = function(){
              
 
             // document.querySelector('intro').style.visibility='hidden';
+            $(".intro").hide();
+            $(quoteSection).empty();
             $(quoteSection).append(
                 "<div><br>" + `"${quote}"` + "<br>" + `${name}` + "<br>" + `${source}` + "<br>" +`${year}` + "<br></div>"
                 );
