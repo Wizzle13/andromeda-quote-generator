@@ -17,9 +17,229 @@
             "episode" : 2,
             "title": "An Affirming Flame",
             "quote" : "Some say the Commonwealth would have fallen even without Nietzschean treachery.  They underestimate both the Commonwealth and the Nietzscheans in a single breath.",
-            "name" : "Yin Man-Wei2",
+            "name" : "Yin Man-Wei",
             "source" : "The Rise and Fall of the Systems Commonwealth",
             "year": "CY 11942"
+        },
+
+        {
+            "id" : 3,
+            "season" : 1,
+            "episode" : 3,
+            "title": "To Loose the Fateful Lightning",
+            "quote" : "Those who fail to learn history are doomed to repeat it; those who fail to learn history correctly-- why they are simply doomed.",
+            "name" : "Achem Dro'hm",
+            "source" : "The Illusion of Historical Fact",
+            "year": "CY 4971"
+        },
+
+        {
+            "id" : 4,
+            "season" : 1,
+            "episode" : 4,
+            "title": "D Minus Zero",
+            "quote" : "Here's everything I know about war: Somebody wins, somebody loses, and nothing is ever the same again.",
+            "name" : "Admiral Constanza Stark",
+            "source" : "",
+            "year": "CY 9784"
+        },
+
+        {
+            "id" : 5,
+            "season" : 1,
+            "episode" : 5,
+            "title": "Double Helix",
+            "quote" : "Machiavelli's ideas are basically sound ones for the Nietzschean People.  Unfortunately, he was an optimist.",
+            "name" : "Cerebus Khmer",
+            "source" : "Aphorisms",
+            "year": "CY 8969"
+        },
+
+        {
+            "id" : 6,
+            "season" : 1,
+            "episode" : 6,
+            "title": "Angel Dark, Demon Bright",
+            "quote" : "The Heavens burned, the stars cried out And under the ashes of infinity, Hope, scarred and bleeding, breathed its last.",
+            "name" : "Ulatempa Poetess",
+            "source" : "Elegy for the Commonwealth",
+            "year": "CY 9823"
+        },
+
+        {
+            "id" : 7,
+            "season" : 1,
+            "episode" : 7,
+            "title": "The Ties that Blind",
+            "quote" : "Many say living in the Way is difficult. Is sleeping difficult? Is waking?",
+            "name" : "Serentity Vikram Singh Khalsa",
+            "source" : "Collected Words",
+            "year": "301 AFC"
+        },
+
+        {
+            "id" : 8,
+            "season" : 1,
+            "episode" : 8,
+            "title": "The Banks of the Lethe",
+            "quote" : "We say atoms are bound by Weak Attractions.  Why not admit the Truth: The Universe is held together by Love.",
+            "name" : "Michio Von Kerr",
+            "source" : "Wayist physicist",
+            "year": "CY 9942"
+        },
+
+        {
+            "id" : 9,
+            "season" : 1,
+            "episode" : 9,
+            "title": "A Rose in the Ashes",
+            "quote" : "The truest measure of a society is how it treats its elderly, its pets, and its prisoners.",
+            "name" : "Keeper of the Way",
+            "source" : "Vision of Faith VII",
+            "year": "CY 9891"
+        },
+
+        {
+            "id" : 10,
+            "season" : 1,
+            "episode" : 10,
+            "title": "All Great Neptune's Ocean",
+            "quote" : "Democracy may only be a few steps removed from anarchy, but at least it's not as loud.",
+            "name" : "Crowned in Starlight Than Hegemon",
+            "source" : "",
+            "year": "CY 9843"
+        },
+
+        {
+            "id" : 11,
+            "season" : 1,
+            "episode" : 11,
+            "title": "The Pearls that Were His Eyes",
+            "quote" : "Wealth is too precious to be entrusted to the rich.",
+            "name" : "Anonymous",
+            "source" : "Kalderan Proverb",
+            "year": "circa CY 500"
+        },
+
+        {
+            "id" : 12,
+            "season" : 1,
+            "episode" : 12,
+            "title": "The Mathematics of Tears",
+            "quote" : "If hope is the engine of the soul, Then duty is the navigator... And love is the fuel.",
+            "name" : "High Guard Supreme Commander Sani nax Rifati",
+            "source" : "Persuasions and Exhortations",
+            "year": "CY 4279"
+        },
+
+        {
+            "id" : 13,
+            "season" : 1,
+            "episode" : 13,
+            "title": "Music of a Distant Drum",
+            "quote" : "KLUDGE (Klooj) - N. Disparaging term for genetically unmodified human being",
+            "name" : "",
+            "source" : "A Concise Dictionary of Slang and Euphemism",
+            "year": "CY 9021"
+        },
+
+        {
+            "id" : 14,
+            "season" : 1,
+            "episode" : 14,
+            "title": "Harper 2.0",
+            "quote" : "One head cannot contain all Wisdom.",
+            "name" : "The Olduvai Cycle",
+            "source" : "Systems University Archives",
+            "year": "CY 8550"
+        },
+
+        {
+            "id" : 15,
+            "season" : 1,
+            "episode" : 15,
+            "title": "Forced Perspective",
+            "quote" : "Humans say the Road to Hell is paved with good intentions.  Why? Do they think there's a shortage of bad ones?",
+            "name" : "Karm'Luk P'an Ku",
+            "source" : "The Joy of Lucidity",
+            "year": "CY 8633"
+        },
+
+        {
+            "id" : 16,
+            "season" : 1,
+            "episode" : 16,
+            "title": "The Sum of Its Parts",
+            "quote" : "Between birth and death lies desire, Desire for life, for love, for everything good.  And this is the source of all suffering.",
+            "name" : "",
+            "source" : "Outcast Consensus 17",
+            "year": "CY 10942"
+        },
+
+        {
+            "id" : 17,
+            "season" : 1,
+            "episode" : 17,
+            "title": "Fear and Loathing in the Milky Way",
+            "quote" : "Warning: Do Not Operate Heavy Machinery or Navigate The Slipstream While Under the Influence Of This Beverage.",
+            "name" : "",
+            "source" : "Sparky - Cola (Label)",
+            "year": "291 AFC"
+        },
+
+        {
+            "id" : 18,
+            "season" : 1,
+            "episode" : 18,
+            "title": "The Devil Take the Hindmost",
+            "quote" : "Only those born guilty Recognize Innocence for what it Is: The rarest thing in the Universe, And the most Precious",
+            "name" : "",
+            "source" : "The Anointed, The Finder of The Way,",
+            "year": "CY 9799"
+        },
+
+        {
+            "id" : 19,
+            "season" : 1,
+            "episode" : 19,
+            "title": "The Honey Offering",
+            "quote" : "The enemy of my enemy is still my enemy.",
+            "name" : "Drago Museveni",
+            "source" : "",
+            "year": "CY 8427"
+        },
+
+        {
+            "id" : 20,
+            "season" : 1,
+            "episode" : 20,
+            "title": "Star-Crossed",
+            "quote" : "You ask why we give our Ships' Computers normal Emotions? Do you really want a Warship Incapable of Loyalty? Or of love?",
+            "name" : "The Unshattered Allegiance, High Guard Frigate",
+            "source" : "Artificial Intelligence Rights Activist",
+            "year": "CY 7309"
+        },
+
+        {
+            "id" : 21,
+            "season" : 1,
+            "episode" : 21,
+            "title": "It Makes a Lovely Light",
+            "quote" : "Come bitter Rain, And wash from my Heart That saddest of all Words: Home",
+            "name" : "Ulatempa Poetess",
+            "source" : "Song of My Exile",
+            "year": "CY 9825"
+        },
+
+        {
+            "id" : 22,
+            "season" : 1,
+            "episode" : 22,
+            "title": "Its Hour Come 'Round at Last",
+            "quote" : "Screams of a billion murdered Stars Give lie to the night's Peace, While we cling in desperation to the Few Fragile spinning stones we call Worlds.",
+            "name" : "Wayfinder First Order Hasturi aka 'The Mad Perseid'",
+            "source" : "",
+            "year": "217 AFC"
         }
     ]
 }    

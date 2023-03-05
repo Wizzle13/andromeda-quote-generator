@@ -1,6 +1,6 @@
 var genBtn = document.getElementById('genButton');
 var quoteSection = document.querySelector("#quote");
-var numQuotes = 2; //110
+var numQuotes = 22; //110
 var QuoteID = 0;
 var modalQuote = document.getElementById("quote");
 // randomly pickes quote

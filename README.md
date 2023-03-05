@@ -7,11 +7,14 @@
   ![Last Commit](https://img.shields.io/github/last-commit/wizzle13/andromeda-quote-generator?style=plastic)
   
   ## Description
-  Randomly pulls into quotes form the tv series Andromeda
+  Randomly pulls into quotes form the tv series Andromeda.  I was unable to find and api for this so i build my own json file containing all the quote.  The soures of my quotes is https://en.wikiquote.org/wiki/Andromeda_(TV_series)
 
   ### Tools and Languages used
   ##### Frontend:
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=Javascript&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=Javascript&logoColor=white)
+  ![JQuery](https://img.shields.io/badge/jQuery-0769AD?plastic&logo=jquery&logoColor=white)
   ##### Backend:
   None
   ##### Database:
