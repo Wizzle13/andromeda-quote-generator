@@ -23,21 +23,9 @@
   ![Git](https://img.shields.io/badge/Git-F05032?plastic&logo=Git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?plastic&logo=GitHub&logoColor=white)![VSCode](https://img.shields.io/badge/VSCode-007ACC?plastic&logo=visualstudiocode&logoColor=white)
   
   
-  ## Table of Contents
   
-  
-  - [Screenshots](#screenshots)
-  
-  
-  - [Links](#links)
-  
-  
-
-
-  
-
   ## Screenshots
-  <img src="./screenshot">
+  <img src="./assets/images/Screenshot.png">
 
   
 
@@ -51,4 +39,4 @@
 
 ![Made With](https://img.shields.io/badge/Made%20with-Ultimate%20README%20Generator-blue?style=plastic)
 
-  &copy;2022 by Chris Burton
+  &copy;2023 by Chris Burton
