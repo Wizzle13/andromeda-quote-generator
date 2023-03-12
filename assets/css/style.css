@@ -1,6 +1,11 @@
+body {
+    background-image: url("../images/space.jpg");
+    background-size: 1200px 1200px;
+    
+}
 header {
     display: flex;
-    background-color: black ;
+    /* background-color: black ; */
 }
 header h1 {
     text-align: center;
@@ -14,7 +19,7 @@ button {
     text-align: center;
     font-size: 32px;
     font-family: 'Courier New', Courier, monospace;
-    
+    color: white;
 }
 
 .intro {
