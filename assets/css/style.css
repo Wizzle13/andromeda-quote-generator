@@ -8,7 +8,7 @@ header h1 {
 }
 
 button {
-   align-self:center;
+    margin-left: 43%;
 }
 #quote {
     text-align: center;
@@ -24,3 +24,30 @@ button {
     
 }
 
+/* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
+@media screen and (max-width: 980px) {
+
+}
+
+/* MEDIA QUERY FOR TABLETS AND SMALLER */
+@media screen and (max-width: 768px) {
+
+}
+  
+/* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
+@media screen and (max-width: 575px) {
+  header {
+    flex-direction: column;
+  }
+  #quote {
+    font-size: 16px;
+    margin: 10px;
+  }
+  img {
+    width: 300px;
+  }
+
+  button {
+    margin-left: 30%;
+}
+}
